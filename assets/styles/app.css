@@ -86,3 +86,7 @@ hr {
 .blog-posts .post .featured .featured-image img {
     height: 380px;
 }
+
+.login-error-alert {
+    width: 10vw;
+}
